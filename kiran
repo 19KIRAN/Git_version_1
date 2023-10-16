@@ -1,0 +1,51 @@
+[33mcommit bfd33a714abe0b17eea65e4c34dc8bf11917c03b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kiran <kiranhs8577@gmail.com>
+Date:   Mon Oct 16 13:09:10 2023 +0530
+
+    added a dummy file
+
+[1mdiff --git a/SCRIPT.JS b/SCRIPT.JS[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/scripts.js b/scripts.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/vc.js b/vc.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/vcstyle.css b/vcstyle.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/vs.js b/vs.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/waste.html b/waste.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit cc9d080c6f6f6be5a5a002cc9e491758fc26fab6[m
+Author: kiran <kiranhs8577@gmail.com>
+Date:   Mon Oct 16 13:06:38 2023 +0530
+
+    skipped the stagging area
+
+[1mdiff --git a/PROJECT.HTML b/PROJECT.HTML[m
+[1mindex d05fa58..66e845f 100644[m
+[1m--- a/PROJECT.HTML[m
+[1m+++ b/PROJECT.HTML[m
+[36m@@ -10,5 +10,14 @@[m
+         home page[m
+     </H1>[m
+     <p>Navarathri is a good time to detoxify your </p>[m
+[32m+[m[32m    <ul>[m
+[32m+[m[32m        <li>day 1:orange</li>[m
+[32m+[m[32m        <li>day 2:white</li>[m
+[32m+[m[32m        <li>day 3:red</li>[m
+[32m+[m[32m        <li>day 4:green</li>[m
+[32m+[m[32m        <li>day 5:yellow</li>[m
+[32m+[m[32m        <li>day 6:royal blue</li>[m
+[32m+[m[41m    [m
+[32m+[m[32m    </ul>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
